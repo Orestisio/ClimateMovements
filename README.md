@@ -28,5 +28,6 @@ showing visualization of distinct topics based on tokens of the captions and pos
 | <img src="https://github.com/user-attachments/assets/4e6bd4f1-7ece-4365-96c3-cf4bbe6a7759" > | <img src="https://github.com/user-attachments/assets/7c719029-ef67-4310-8dbc-d58da180d978" > |
 |---|---|
 
+## You can check the interactive visualization of 10 distinct topics like the img below [here!]( https://html-preview.github.io/?url=https://github.com/Orestisio/ClimateMovements/blob/master/ClimateMovements/final.html)
 <img src="https://github.com/user-attachments/assets/938322b3-f940-4cc0-9e86-a4a36e4ed7b5" >
 
